@@ -1,0 +1,3 @@
+[submodule "magento-ce-languagefiles"]
+	path = magento-ce-languagefiles
+	url = https://github.com/yireo/magento-ce-languagefiles
